@@ -1,0 +1,30 @@
+[
+  {
+    "type": "Beni Mrirt",
+    "dimensions": "220cm x 150cm",
+    "color": "neutral ecru",
+    "price_euros": 700,
+    "shape": "standard"
+  },
+  {
+    "type": "Taznakht",
+    "dimensions": "210cm x 70cm",
+    "color": "multicolor",
+    "price_euros": 750,
+    "shape": "runner"
+  },
+  {
+    "type": "Azilal",
+    "dimensions": "180cm x 120cm",
+    "color": "neutral ecru",
+    "price_euros": 300,
+    "shape": "standard"
+  },
+  {
+    "type": "Taznakht",
+    "dimensions": "150cm x 100cm",
+    "color": "blue",
+    "price_euros": 300,
+    "shape": "standard"
+  }
+]
