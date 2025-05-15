@@ -34,5 +34,5 @@ It does **not** fetch or generate data beyond what's available in that file.
 
 1. Clone the repo
    ```bash
-   git clone https://github.com/your-username/rug-assistant.git
+   git clone https://github.com/hajaruk-git/rug-assistant-first.git
    cd rug-assistant
